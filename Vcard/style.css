@@ -1,0 +1,55 @@
+body {
+	font-family: "Patua One",sans-serif;
+	font-size: 36px;
+	color: #000000;
+	line-height: 1.44;
+	margin:0;	
+}
+.body__left{
+    width: 40%;
+    height: 100%;
+    background-color: #88847F;
+    float: left;
+}
+.body__right{
+    width: 60%;
+    height: 100%;
+    background-color: #ffffff;
+    float: right;
+    text-align: center;
+}
+.text{
+    top:300px;
+    width: 60%;
+    vertical-align: middle;
+    text-align: left;
+    display: block;
+    min-height: 1000px;
+    display: table-cell;
+    
+}
+.logo__list{
+    text-align: center;
+}
+.logo__social{
+    padding-right: 20px;
+    padding-bottom: 70px;
+}
+.center{
+    display: block;
+    position: relative; 
+  margin-left: auto;
+  margin-right: auto;
+    box-sizing: border-box;
+    text-align: center;
+    width: 60%;
+}
+.img__profil{
+    text-align: center;
+}
+
+.lien{
+    text-align: center;
+    font-size: 18pt;
+    
+}
